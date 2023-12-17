@@ -5,7 +5,7 @@ __Cara Setup__
 apt update -y && apt upgrade -y
 ```
 ```
-apt install wget -y && wget -O set "https://raw.githubusercontent.com/fesfap/ip/main/setup" && chmod +x * && ./set
+apt install wget -y && wget -O set "https://raw.githubusercontent.com/RyanWahyudi8/forward/main/setup" && chmod +x * && ./set
 ```
 
 __Cara Pakai__

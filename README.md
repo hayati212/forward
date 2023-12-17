@@ -21,4 +21,3 @@ Fitur Utama :
 
 
 
-Telegram : 
